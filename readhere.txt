@@ -1,0 +1,2 @@
+8 file run with speed = 20 rpm
+ver2 run with speed = 10 rpm
